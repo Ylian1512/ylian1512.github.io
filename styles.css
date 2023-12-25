@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(49, 49, 49);
+}
+
+a:link{
+    color: rgb(0, 132, 255);
+    cursor: pointer;
+}
+
+.topbar-buttons{
+    cursor: pointer;
+    background-color: rgb(19, 82, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 300%;
+}
+
+.topbar{
+    top: 0;
+    right: 0;
+    left: 0;
+    background-color: blueviolet;
+}
